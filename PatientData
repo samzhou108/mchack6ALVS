@@ -8,6 +8,6 @@ Number of steps
 Cumulative Sleep (hours)
 Body Temperature (celsius)
 Pulse Rate (bpm)
-Mood (??)
-Blood oxygen (%)
-BMI
+Mood (count_Of)
+Blood oxygen (oxygen saturation) (%)
+BMI (kg/m^2)
