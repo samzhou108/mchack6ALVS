@@ -1,12 +1,13 @@
-Height
-Weight
+Height (cm)
+Weight (kg)
 Gender
 Body fat %
-Waist Circumference
-Blood pressure (Systolic, diastolic)
+Waist Circumference (cm)
+Blood pressure (Systolic, diastolic
 Number of steps
-Cumulative Sleep
-Body Temperature
-Heart Rate
+Cumulative Sleep (hours)
+Body Temperature (celsius)
+Heart Rate (bpm)
 Mood (??)
 Blood oxygen (%)
+BMI
